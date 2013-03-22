@@ -1,0 +1,8 @@
+Package: example
+Version: 1
+Filename: example.deb
+Architecture: amd64
+Size: 566
+SHA256: d09193a26b55b640f860674ee3ae739ddd1304e5d6812213aa28fe29616dd253
+Maintainer: irrelevant
+Description: irrelevant

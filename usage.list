@@ -1,0 +1,3 @@
+# without arch=, amd64 boxen still try to lookup i386
+# Note that the Architectures field in Release does not help.
+deb [arch=amd64 trusted=yes] http://localhost/ a b
